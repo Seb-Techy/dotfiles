@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = techysebastien@gmail.com
+	name = Sebastien Techy
